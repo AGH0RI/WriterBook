@@ -1,0 +1,70 @@
+.header{
+	background: lightblue; 
+}
+.header-content{
+	padding-top:10px; 
+}
+.header-content input{
+	font-size: 13px; 
+}
+.size{
+	font-size: 12px; 
+}
+.jumbo{
+	background-color: #e9ecef;
+	padding: 10px;
+}
+.image{
+	width: 70%;
+}
+.form div{
+	padding-bottom:5px ; 
+}
+.about{
+
+}
+.center-area{
+	width:50%;
+	background-color: white;
+	margin: auto;
+	margin-top:  70px;
+	margin-bottom:70px;
+	display: block;
+	align-self: center;
+	align-content: center;
+}
+.msg{
+	margin: auto;
+	padding: 10px;
+	padding-top: 40px;
+	font-size: 30px;
+	color: red;
+}
+.msg1{
+	margin: auto;
+	padding: 0px;
+	padding-top: 0px;
+	font-size: 25px;
+	color: red;
+	font-weight: bold;
+}
+.msg2{
+	margin: auto;
+	padding: 0px;
+	padding-top: 0px;
+	font-size: 20px;
+	color: red;
+}
+.login{
+	margin: auto;
+	padding: 10px;
+	padding-top: 25px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.center-area .row{
+	padding: 10px; 
+}
+.hidden{
+	display: none;
+}
